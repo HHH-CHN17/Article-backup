@@ -1,10 +1,12 @@
 # 关于这个issue
 
-之前用Hex搭了一个[个人博客](https://axutongxue.github.io/)，其实主要是用来备份公众号文章
+之前用Hexo搭了一个[个人博客](https://axutongxue.github.io/)，其实主要是用来备份公众号文章
 
-但始终感觉还是流程略复杂，发布文章步骤过于繁琐。
+但始终感觉还是流程略复杂，发布文章步骤过于繁琐。  
 
-最后还是决定换到issue来备份文章+分享资源
+
+最后还是决定换到issue来备份文章+分享资源  
+
 
 # 转为issue有几个好处
 
@@ -14,7 +16,8 @@
 - 不利于SEO反倒正好契合我的需求：想要知道我的github issue地址，必然是关注了[储物间](http://kyon945.ys168.com/)，或者公众号（阿虚同学）的粉丝
 - 无需本地渲染，打开网页即可在线编辑文章，**资源更新起来会方便很多**！
 
-
+  
+    
 
 同时还有下面这些优点
 
@@ -23,7 +26,8 @@
 - 访问速度比github page更快
 - **自带图床！**于是不必担心图片失效的问题
 
-
+  
+  
 
 [![img](https://raw.githubusercontent.com/axutongxue/img/master/liliwanxin.gif)](https://raw.githubusercontent.com/axutongxue/img/master/liliwanxin.gif)
 
